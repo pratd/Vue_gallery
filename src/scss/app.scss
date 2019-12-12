@@ -1,0 +1,58 @@
+// @import 'node_modules/bootstrap/scss/bootstrap';
+// @import 'node_modules/bootstrap-vue/src/index.scss';
+// // Required
+// @import "~bootstrap/scss/functions";
+// @import "~bootstrap/scss/variables";
+// @import "~bootstrap/scss/mixins";
+
+// // Optional
+// @import "~bootstrap/scss/reboot";
+// @import "~bootstrap/scss/type";
+// @import "~bootstrap/scss/images";
+// @import "~bootstrap/scss/code";
+// @import "~bootstrap/scss/grid";
+// $font-stack:  'Avenir', Helvetica, Arial, sans-serif;
+// //$primary-color: #333;
+// .page {
+//     -webkit-font-smoothing: antialiased;
+//     -moz-osx-font-smoothing: grayscale;
+//     text-align: left;
+//     //width: 0px;
+//     margin: 0 auto;
+//     color: #fbeee4;
+//     margin-top
+//     : 60px;
+// }
+// .headline{
+//     font-size: large;
+//     background-color: #003366 ;
+// }
+// .listimages{
+//     color:black;
+// }
+// .imagelist{
+//     animation-duration: 1s;
+//     animation-fill-mode: both;
+//     animation-name: fadeInUp;
+//   }
+//   @keyframes fadeInUp {
+//     from {
+//       opacity: 0;
+//       transform: translateY(10%) scale(0.9);
+//     }
+//     to {
+//       opacity: 1;
+//       transform: translateY(0%) scale(1.0);
+//     }
+//   }
+// @media (min-width: 768px) {
+//     #main .panel-body  {
+//         min-height:190px;
+//         max-height:190px;
+//     }
+// }
+
+
+*{
+    border: 1px solid red;
+}
