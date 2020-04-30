@@ -45,7 +45,7 @@
     "bootstrap-vue": "^2.1.0",
     "es6-promise": "^4.2.8",
     "infinite-scroll": "^3.0.6",
-    "jquery": "^3.4.1",
+    "jquery": "^3.5.0",
     "popper.js": "^1.16.0",
     "querystring": "^0.2.0",
     "v-infinite-scroll": "^1.0.4",
